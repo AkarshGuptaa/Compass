@@ -27,7 +27,7 @@ The **Compass App** is a simple Android application designed to help users deter
 ## Screenshots
 
 ![Compass Screen](compass.png)
-
+<img src="compass.png" alt="Compass Screen" width="300"/>
 *Screenshot of the compass interface.*
 
 ## Installation
